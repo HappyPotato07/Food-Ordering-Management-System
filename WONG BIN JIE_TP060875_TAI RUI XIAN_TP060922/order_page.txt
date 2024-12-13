@@ -1,0 +1,12 @@
+             ===================================================
+                            O r d e r    P a g e
+             ===================================================
+                1 = Roti Canai
+                2 = Murtabak
+                3 = Nasi Goreng
+                4 = Mee
+                5 = Minuman
+
+                v = View Cart
+                c = Checkout
+                b = Main Page
