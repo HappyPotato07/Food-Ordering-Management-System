@@ -1,17 +1,3 @@
-**Online Food Order Management System (OFOMS)**
-A Python-based project aimed at enhancing Spiderman Online Food Services by offering an efficient, user-friendly platform for managing food orders. The system caters to both administrators and customers, providing a wide array of features with a simple interface.
+The Online Food Order Management System (OFOMS) is a Python-based project developed to enhance the operational efficiency of Spiderman Online Food Services. This system is designed to provide a user-friendly interface for both administrators and customers, offering a seamless experience for managing food orders. With robust functionality, the platform ensures that customers can easily browse the menu, place orders, and make payments, while administrators can manage menu items and analyze customer data efficiently.
 
-**Features**
-**Admin Functionality**
-Secure login system for administrators.
-Add, modify, and remove food items.
-Display all customer records.
-Search customer orders and payments for analysis.
-**Customer Functionality**
-Register and log in as a customer.
-View menu items by category.
-Place orders and manage cart items.
-Make payments securely.
-**Guest Access**
-Browse the menu without registration.
-Option to sign up for more features
+The system features distinct functionalities for administrators, customers, and guests. Administrators have access to a secure login system that enables them to add, modify, and remove food items, as well as display and search through customer records. Customers, after registering and logging in, can view the menu, explore food categories, place orders, and manage their carts with ease. Guests can browse the menu without registration and are encouraged to sign up for additional features.
